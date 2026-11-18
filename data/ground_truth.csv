@@ -1,0 +1,22 @@
+scenario,description,asset,substation,start,end
+S1,Meter tampering / consumption drop,M-007,SS-01,2026-11-12 00:00:00,2026-11-15 23:00:00
+S2,Voltage sag on substation,M-016,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-017,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-018,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-019,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-020,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-021,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-022,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-023,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-024,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-025,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-026,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-027,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-028,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-029,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S2,Voltage sag on substation,M-030,SS-02,2026-11-13 14:00:00,2026-11-13 17:00:00
+S3,Communication anomaly after admin intrusion,M-033,SS-03,2026-11-14 02:00:00,2026-11-14 05:00:00
+S3,Communication anomaly after admin intrusion,M-036,SS-03,2026-11-14 02:00:00,2026-11-14 05:00:00
+S3,Communication anomaly after admin intrusion,M-040,SS-03,2026-11-14 02:00:00,2026-11-14 05:00:00
+S3,Intrusion on gateway (admin events),GW-03,SS-03,2026-11-14 01:48:00,2026-11-14 02:15:00
+S4,Failed login attempts only,GW-04,SS-04,2026-11-15 03:30:00,2026-11-15 03:36:00
